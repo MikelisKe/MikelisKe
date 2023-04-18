@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+
+My name ir Miķelis Keišs and I`m from Latvia. I`m on neverending journey as Sofware Engeneer. 
+My 
+
+
+
 <!--
 **MikelisKe/MikelisKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
