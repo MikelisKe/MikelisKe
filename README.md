@@ -13,9 +13,7 @@ My name ir Miķelis Keišs and I`m from Latvia. I'm on neverending journey as So
 Im am currently learning :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
-<div style="border: 2px solid #0077B5; background-color: #F0F2F5; padding: 10px; display: inline-block;">
-  <a href="https://www.linkedin.com/in/your-profile-link/" style="text-decoration: none; color: #0077B5; font-weight: bold;">Visit my LinkedIn profile</a>
-</div>
+<div style="border: 2px solid #0077B5; background-color: #F0F2F5; padding: 10px; display: inline-block;">  
 
 And i have basic knowledge in :
 
